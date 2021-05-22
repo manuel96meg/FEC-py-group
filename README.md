@@ -1,3 +1,3 @@
 # python-group-FrontEndCafe
 
-Aqui dejo unos ejercicios que hice semanalmente para el grupo de Python Study Group en el Front End Cafe discord
+Ejercicios semanales que hice en el grupo "Python Study Group" en la comunidad de Discord "Front End Cafe"
